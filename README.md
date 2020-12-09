@@ -1,7 +1,7 @@
 # DEMO-LINK
 Link for all my samples for JS, HTML, ReactJS and etc.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=o8QT02CIXy4" target="_blank"><img src="http://img.youtube.com/vi/o8QT02CIXy4/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o8QT02CIXy4" target="_blank"><img src="https://raw.githubusercontent.com/AJ-7885/Graphic/main/SVG/undraw_choice_9385.svg" 
 alt="Showreel" width="100%" border="10" /></a>
 
 ## JavaScript
